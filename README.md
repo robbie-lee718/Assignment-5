@@ -1,12 +1,10 @@
-# Sky Roller 3D — Skeleton Project
+# Sky Roller 3D
 
-Skeleton project for the Module 5 3D rolling ball game built in Unity. In this module, you will create a complete 3D arcade-style game with player movement, camera follow, collectibles, hazards, score tracking, and level progression.
-
-This repository contains the starting files and assets used throughout the lectures. The gameplay systems are intentionally incomplete so you can build them step-by-step during the module.
+Created a complete 3D arcade-style game with player movement, camera follow, collectibles, hazards, score tracking, and level progression.
 
 ---
 
-## Features You Will Build
+## Features Built
 
 - 3D scene setup and level design
 - Physics-based ball movement
